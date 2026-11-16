@@ -1,0 +1,11 @@
+{
+  "project": "FluxProxy Core",
+  "catalog_ref": "fluxproxy",
+  "generated_at": "2026-11-12T08:41:00Z",
+  "current": {"version": "2.4.0", "channel": "stable", "cut_from": "main"},
+  "releases": [
+    {"version": "2.4.0", "channel": "stable", "cut_from": "main", "date": "2026-10-27"},
+    {"version": "2.3.2", "channel": "stable", "cut_from": "main", "date": "2026-09-09"},
+    {"version": "2.5.0-preview.1", "channel": "preview", "cut_from": "feature/edge-cache", "date": "2026-11-06"}
+  ]
+}
